@@ -1,0 +1,104 @@
+.login_body{
+    background-image: url("https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxpYnJhcnl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.login_content{
+    margin-top: 40%
+}
+.dashboard{
+    background-image: url("https://plus.unsplash.com/premium_photo-1661373260437-7dfa52b62360?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGxpYnJhcnl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60");
+  
+    width: 100%;
+    background-size: cover;
+}
+.button_dash{
+    margin-top: 5%;
+}
+.dashPara{
+    margin-top: 5%;
+}
+
+.button_dash a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.button_dash a:hover {
+    text-decoration: underline; 
+}
+
+
+.d-flex a {
+    text-decoration: none;
+}
+
+.d-flex a .button_button {
+    text-decoration: none;
+}
+.issue_Book{
+    background-image: url("https://plus.unsplash.com/premium_photo-1663045964692-f6a302a98a9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXNzdWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.img-one{
+    width: 60%;
+    height: 60%;
+}
+.addMember{
+      background:linear-gradient(rgb(85, 85, 157),rgb(186, 103, 103));
+}
+.addBook_bg{
+    background-image: url("https://images.unsplash.com/photo-1600431521340-491eca880813?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bGlicmFyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.card_img_size{
+    width: 23.6vw;
+    height: 43vh;
+}
+.card_content_size{
+    width: 23.6vw;
+}
+@media (max-width:767px)
+{
+    .card_img_size{
+        width: 30vw;
+        height: 60vh;
+    }
+    .card_content_size{
+        width: 30vw;
+    }
+}
+@media (max-width:620px)
+{
+    .card_img_size{
+        width: 100%;
+        height: 60vh;
+    }
+    .card_content_size{
+        width: 100%;
+    }
+}
+@media (max-width:575px)
+{
+    .card_img_size{
+        width: 100%;
+        height: 60vh;
+    }
+    .card_content_size{
+        width: 100%;
+    }
+    .image-container{
+        width: 100%;
+    }
+}
+.issuebookBg{
+    background-image: url("https://images.unsplash.com/photo-1513185041617-8ab03f83d6c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGJvb2tzfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60");
+  
+    width: 100%;
+    background-size: cover;
+}
